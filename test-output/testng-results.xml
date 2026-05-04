@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-10T10:12:43 IST" name="Default suite" finished-at="2023-04-10T10:13:23 IST" duration-ms="39975">
+  <suite started-at="2026-05-04T20:34:26 IST" name="Default suite" finished-at="2026-05-04T20:37:01 IST" duration-ms="155700">
     <groups>
     </groups>
-    <test started-at="2023-04-10T10:12:43 IST" name="Default test" finished-at="2023-04-10T10:13:23 IST" duration-ms="39975">
+    <test started-at="2026-05-04T20:34:26 IST" name="Default test" finished-at="2026-05-04T20:37:01 IST" duration-ms="155700">
       <class name="testclasses.TestCases">
-        <test-method signature="test_homeLoan()[pri:1, instance:testclasses.TestCases@3336e6b6]" started-at="2023-04-10T10:12:43 IST" name="test_homeLoan" finished-at="2023-04-10T10:12:57 IST" duration-ms="13184" status="PASS">
+        <test-method signature="test_homeLoan()[pri:1, instance:testclasses.TestCases@6f36c2f0]" started-at="2026-05-04T20:34:26 IST" name="test_homeLoan" finished-at="2026-05-04T20:35:01 IST" duration-ms="34707" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_homeLoan -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclasses.TestCases@3336e6b6]" started-at="2023-04-10T10:12:57 IST" name="tearDown" finished-at="2023-04-10T10:12:58 IST" duration-ms="1643" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclasses.TestCases@6f36c2f0]" started-at="2026-05-04T20:35:01 IST" name="tearDown" finished-at="2026-05-04T20:35:04 IST" duration-ms="3058" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="test_carLoan()[pri:2, instance:testclasses.TestCases@3336e6b6]" started-at="2023-04-10T10:12:58 IST" name="test_carLoan" finished-at="2023-04-10T10:13:09 IST" duration-ms="10499" status="PASS">
+        <test-method signature="test_carLoan()[pri:2, instance:testclasses.TestCases@6f36c2f0]" started-at="2026-05-04T20:35:04 IST" name="test_carLoan" finished-at="2026-05-04T20:35:28 IST" duration-ms="24626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_carLoan -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclasses.TestCases@3336e6b6]" started-at="2023-04-10T10:13:09 IST" name="tearDown" finished-at="2023-04-10T10:13:09 IST" duration-ms="243" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclasses.TestCases@6f36c2f0]" started-at="2026-05-04T20:35:28 IST" name="tearDown" finished-at="2026-05-04T20:35:30 IST" duration-ms="1714" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method signature="test_EmiCalculator()[pri:3, instance:testclasses.TestCases@3336e6b6]" started-at="2023-04-10T10:13:09 IST" name="test_EmiCalculator" finished-at="2023-04-10T10:13:23 IST" duration-ms="14040" status="PASS">
+        <test-method signature="test_EmiCalculator()[pri:3, instance:testclasses.TestCases@6f36c2f0]" started-at="2026-05-04T20:35:30 IST" name="test_EmiCalculator" finished-at="2026-05-04T20:37:00 IST" duration-ms="89717" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_EmiCalculator -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclasses.TestCases@3336e6b6]" started-at="2023-04-10T10:13:23 IST" name="tearDown" finished-at="2023-04-10T10:13:23 IST" duration-ms="335" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclasses.TestCases@6f36c2f0]" started-at="2026-05-04T20:37:00 IST" name="tearDown" finished-at="2026-05-04T20:37:01 IST" duration-ms="1814" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

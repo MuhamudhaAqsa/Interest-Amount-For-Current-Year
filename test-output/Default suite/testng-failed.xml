@@ -5,7 +5,9 @@
     <classes>
       <class name="testclasses.TestCases">
         <methods>
+          <include name="test_homeLoan"/>
           <include name="test_EmiCalculator"/>
+          <include name="test_carLoan"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- testclasses.TestCases -->
