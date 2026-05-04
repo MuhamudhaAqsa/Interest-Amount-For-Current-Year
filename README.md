@@ -34,14 +34,4 @@ This project automates the following tasks:
 - A PowerPoint Presentation <a href="">[here]</a>.
 - A Demo Video of the project <a href="https://www.youtube.com/watch?v=iedYpxoEQl0">[here]</a>.
 
-## Contributors:
-This project is developed by
-<a href = "https://github.com/Utkarsh-Technical/Cognizant_Hackathon/graphs/contributors">  
-  <li>
-  <img src="https://contrib.rocks/image?repo=AMITYADAV88744/as_fashion" />
-  <img src="https://contrib.rocks/image?repo=poornima-y/Hackathon_Loan-calculator" />
-  <img src="https://contrib.rocks/image?repo=Utkarsh-Technical/Cognizant_Hackathon" />
-  <img src="https://contrib.rocks/image?repo=parulparashar100/Identity-Management-System" />
-  <img src="https://contrib.rocks/image?repo=krp1998/-precision-agriculture-using-machine-learning" />
-  </li>
-</a>
+
